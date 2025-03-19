@@ -1,7 +1,7 @@
 - 👋 Hi, I’m mrafiquemaricar
-- 👀 I’m interested in learning to develop web and mobile applications
-- 🌱 I’m currently learning node, react, typescript and re-learning javascript
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m dabbling in the product design and development space with peppering AI tech into it.
+- 🌱 I’m currently exploring on AI Agents.
+- 💞️ I’m looking to collaborate on any form of AI Agentic projects
 - 📫 How to reach me : mrafiquemaricar@gmail.com
 
 <!---
